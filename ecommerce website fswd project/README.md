@@ -5,7 +5,7 @@ Team Code - FSV14
 Team Members
 1. GAYATHRIDEVI P     -     1MJ20IS029
 2. CHAITHRA K         -     1KS20EC013
-3. LIKITHA K          -     1KS21AI015   
+3. LIKITHA K          -     1KS21AI025  
 
 Adorn is an E-commerce Fahion Store website aimed at providing high quality clothes to its customers. 
 
